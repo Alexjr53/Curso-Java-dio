@@ -1,8 +1,7 @@
 package operacoesstreamapi;
 
 import java.util.*;
-import java.util.Map.Entry;
-import java.util.function.Function;
+
 
 /*Dadas as seguintes informações  de id e contato, crie um dicionário e
 ordene este dicionário exibindo (Nome id - Nome contato);
